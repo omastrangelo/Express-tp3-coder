@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Teclado Gamer Mecanico",
+        "description": "Teclado Gamer Satechi",
+        "price": 20000,
+        "code": "9283293",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "title": "Mouse Logitech",
+        "description": "Mouse para oficina",
+        "price": 1200,
+        "code": "934983024",
+        "stock": 1000
+    }
+]
